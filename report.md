@@ -1,7 +1,6 @@
 # Average Number of Rides per Hour
 
-
-![avg-rides-per-hour](./report-images/avg-rides-per-hour.png)
+<img src="/report-images/avg-rides-per-hour.png" width="400"/>
 
 
 # Percentage of Rides per Hour by Rider Type
